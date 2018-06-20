@@ -2578,7 +2578,7 @@ bool CBlock::CheckBlock(bool fCheckPOW, bool fCheckMerkleRoot, bool fCheckSig) c
                         break;
                     }
                     bool foundPaymentAndPayee = false;
-                    bool checkoff = false;
+                    bool checkoff = true;
                     CScript payee;
                     CScript payeerewardaddress;
                     if(!checkoff){

@@ -98,9 +98,9 @@ BitcoinGUI::BitcoinGUI(QWidget *parent) :
 	prevBlocks(0),
 	nWeight(0)
 {
-	resize(1250, 550);
-	this->setFixedSize(1235,750);
-	this->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Expanding);
+	resize(1235, 750);
+	//this->setFixedSize(1235,750);
+	//this->setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Expanding);
 	setWindowTitle(tr("MontBlanc") + " - " + tr("Wallet"));
 #ifndef Q_OS_MAC
 	qApp->setWindowIcon(QIcon(":icons/bitcoin"));
