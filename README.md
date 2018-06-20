@@ -1,7 +1,7 @@
 
 MontBlanc Coin repository
 =====================================
-![](https://raw.githubusercontent.com/MontBlancCoin/MontWorkSpace/master/doc/Logo.png)
+![](https://raw.githubusercontent.com/MontBlancCoin/MontBlanc/master/doc/Logo.png)
 
 ### Mont Blanc coin - blockchain revolution in the ski resorts.
 Mont Blanc is a modern cryptocurrency with a latest security features.
